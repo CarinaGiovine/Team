@@ -13,3 +13,8 @@ for i in dia:
     print (i)
 
 
+print("Eduardo")
+print("Octavio")
+
+
+
